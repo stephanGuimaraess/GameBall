@@ -1,0 +1,107 @@
+stand.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hit_0_resized
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+stand2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hit_1_resized
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+stand3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hit_2_resized
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+stand4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hit_3_resized
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+stand5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hit_4_resized
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+stand6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hit_5_resized
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+stand7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hit_6_resized
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+stand8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hit_7_resized
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+stand9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hit_8_resized
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1

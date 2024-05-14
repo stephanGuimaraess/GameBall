@@ -1,0 +1,96 @@
+
+enemywalking.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+walk_0_resized
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+enemywalking2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+walk_1_resized
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+enemywalking3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+walk_2_resized
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+enemywalking4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+walk_3_resized
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+enemywalking5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+walk_4_resized
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+enemywalking6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+walk_5_resized
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+enemywalking7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+walk_6_resized
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+enemywalking8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+walk_7_resized
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1

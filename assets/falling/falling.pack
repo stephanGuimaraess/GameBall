@@ -1,0 +1,36 @@
+
+falling.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jumpEnd_0_resized
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+falling2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jumpEnd_1_resized
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+falling3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jumpEnd_2_resized
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
